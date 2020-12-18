@@ -21,11 +21,11 @@ function draw(){
 
     textSize(25);
     fill(255,0,0);
-    text("RED stands for SECONDS HAND", 53,500);
+    text("RED stands for SECONDS HAND", 40,500);
 
     textSize(25);
     fill(0,255,0);
-    text("GREEN stands for MINUTES HAND", 40,540);
+    text("GREEN stands for MINUTES HAND", 53,540);
  
     translate(200,200)
     rotate(-90)
